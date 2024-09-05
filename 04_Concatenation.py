@@ -12,6 +12,7 @@ full = (Message + Language)
 print (full)
 
 print (Message + "\n" + Language) # usage of \n in concatenation 
+
 print ("I love\npython") # usage of \n in normal 
 
 # can not concetenate text with numbers

@@ -19,11 +19,11 @@ print ("""First Second Third""") # Writing them in the same line doesn't print e
 
 # Using triple quotation we can also easily print quotation from both types inside the sentence
 
-print ("""First 'Test' "Test"
+print ("""First 'Test' 'Test'
 Second
 Third """) 
 
-print ("""First 'Test' "Test"
+print ("""First "Test" "Test"
 Second
 Third """) 
 
