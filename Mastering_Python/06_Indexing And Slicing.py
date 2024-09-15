@@ -11,7 +11,7 @@
 # indexing = used to access a single item
 MyString = "I love you"
 
-print (MyString [0]) # index 0 => I
+print (MyString [0]) # index 0 => I 
 print (MyString [1]) # index 1 => ( ) => (space) 
 print (MyString [2]) # index 2  => l
 

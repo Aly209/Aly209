@@ -16,10 +16,10 @@ print (b.strip())  #strip() => removes right and left spaces
 print (b.rstrip()) #rstrip() removes right spaces only
 print (b.lstrip()) #lstrup() removes left spaces only
 
-c = "######I love you######"
-print (c.strip("#"))  #strip() => removes right and left # characters # don't forget the ""
-print (c.rstrip("#")) #rstrip() removes right # characters only
-print (c.lstrip("#")) #lstrup() removes left  # characters only 
+c = "*****I love you*****"
+print (c.strip("*"))  # strip() => removes right and left # characters # don't forget the ""
+print (c.rstrip("*")) # rstrip() removes right * characters only
+print (c.lstrip("*")) # lstrup() removes left  * characters only 
 
 
 

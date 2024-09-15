@@ -17,6 +17,7 @@ help("keywords")
 
 # we can not use the above keywords as our variables
 FALSE = "Flase" # FALSE here is a variable because it's different from the keyword "False"
+print (FALSE)
 
 # False = "False" # We can't use "False" as our variable because it's one of the keywods.
 # print (False) 

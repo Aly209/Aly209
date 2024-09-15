@@ -34,7 +34,7 @@ Third""")
 
 print ("""First 
 Second 'Test' \\\ "Test" \
-Third""") # 2 get 1 ---- 4 get 2 ---- 6 get 3 ---- 8 get 4 --- each \ escape one
+Third""") # 1-2 get 1 ---- 3-4 get 2 ---- 5-6 get 3 ---- 7-8 get 4 --- each \ escape one
 
 
 
